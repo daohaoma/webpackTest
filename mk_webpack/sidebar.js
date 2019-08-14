@@ -4,4 +4,9 @@ function Sidebar() {
   sidebar.innerText = 'Sidebar'
   dom.append(sidebar)
 }
-export default Sidebar
+
+// ES Moudule 模块导出方式
+// export default Sidebar
+
+// commonJS 模块导出方式
+module.exports = Sidebar

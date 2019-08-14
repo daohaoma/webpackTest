@@ -4,4 +4,9 @@ function Header() {
   header.innerText = 'Header'
   dom.append(header)
 }
-export default Header
+
+// ES Moudule 模块导出方式
+// export default Header
+
+// commonJS 模块导出方式
+module.exports = Header
