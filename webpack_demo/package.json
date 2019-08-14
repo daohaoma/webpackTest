@@ -1,0 +1,13 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "a webpack demo",
+  "private": true,
+  "scripts": {},
+  "author": "jianhua.zhu",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
